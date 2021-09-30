@@ -1,0 +1,14 @@
+{
+    "port": "6578",
+    "database": {
+        "username": "root",
+        "password": "",
+        "host": "127.0.0.1",
+        "port": "3306",
+        "name": "mydb"
+    },
+    "logger": {
+        "enable": false,
+        "output_path": "./"
+    }
+}
